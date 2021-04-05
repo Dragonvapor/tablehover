@@ -1,0 +1,26 @@
+
+
+.iconvisible:hover .edit {
+	visibility: visible;
+}
+
+.edit {
+	visibility: hidden;
+	margin-top: 7%;
+}
+
+.tabledata {
+	text-align: center;
+}
+tr:hover {
+	background-color:#f8ebebbb;
+}
+/* #envdata {
+	background-color: #c2bbbbab;
+} */
+.container {
+	border: 1px solid rgba(128,128,128,0.1);
+	margin: 2% 2% 86px;
+	background: white;
+	padding: 1rem 4rem;
+}

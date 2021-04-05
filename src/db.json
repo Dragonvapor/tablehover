@@ -1,0 +1,39 @@
+{
+    "EnvironmentProperties": [
+        {
+            "PropertyName": "p1",
+            "PropertyValue": "pV1_cfcm",
+            "Category": "cfcm"
+        },
+        {
+            "PropertyName": "p2",
+            "PropertyValue": "pV1_cfcm",
+            "Category": "cfcm"
+        },
+        {
+            "PropertyName": "p3",
+            "PropertyValue": "pV1_cfcm",
+            "Category": "cfcm2"
+        },
+        {
+            "PropertyName": "p4",
+            "PropertyValue": "pV1_cfcm2",
+            "Category": "cfcm2"
+        },
+        {
+            "PropertyName": "p5",
+            "PropertyValue": "pV1_cfcm",
+            "Category": "cfcm3"
+        },
+        {
+            "PropertyName": "p6",
+            "PropertyValue": "pV1_cfcm",
+            "Category": "cfcm3"
+        },
+        {
+            "PropertyName": "p7",
+            "PropertyValue": "pV1_cfcm",
+            "Category": "cfcm3"
+        }
+    ]
+}
